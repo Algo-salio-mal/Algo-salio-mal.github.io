@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Sun, 20 Nov 2022 20:44:21 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 20 Nov 2022 15:31:45 +0000</lastBuildDate>
 	<language>es-CL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,60 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
-		<title>Algo salió mal sale mal y libera al público casi todo su archivo</title>
-		<link>./../../../algo-salio-mal-sale-mal-y-libera-al-publico-casi-todo-su-archivo/index.html</link>
-					<comments>./../../../algo-salio-mal-sale-mal-y-libera-al-publico-casi-todo-su-archivo/index.html#respond</comments>
-		
-		<dc:creator><![CDATA[algo-salio-mal]]></dc:creator>
-		<pubDate>Sun, 20 Nov 2022 20:35:42 +0000</pubDate>
-				<category><![CDATA[Números]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=103</guid>
-
-					<description><![CDATA[Luego de dos años de seudoactividad, el grupo detrás de &#8220;Algo salió mal&#8221; baja la persiana. Tras haber promovido un esquema de patronazgo y recompensa que no dio los resultados esperados, junto con una cada vez más prohibitiva entrada al mercado de diarios y revistas impresas que, para peor, está languideciendo, &#8220;Algo salió mal&#8221; dice [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<figure class="is-layout-flex wp-block-gallery-1 wp-block-gallery alignwide has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><img decoding="async" width="1138" height="1433" data-id="11"  src="./../../../wp-content/uploads/2022/11/001c.webp" alt="" class="wp-image-11"/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1138" height="1551" data-id="100"  src="./../../../wp-content/uploads/2022/11/0A1.webp" alt="" class="wp-image-100"/></figure>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1165" height="1598" data-id="54"  src="./../../../wp-content/uploads/2022/11/009.webp" alt="" class="wp-image-54"/></figure>
-<figcaption class="blocks-gallery-caption wp-element-caption">Portadas de la primera, el número 0a y el último número de &#8220;algo salió mal&#8221;</figcaption></figure>
-
-
-
-<p>Luego de dos años de seudoactividad, el grupo detrás de &#8220;Algo salió mal&#8221; baja la persiana. Tras haber promovido un esquema de patronazgo y recompensa que no dio los resultados esperados, junto con una cada vez más prohibitiva entrada al mercado de diarios y revistas impresas que, para peor, está languideciendo, &#8220;Algo salió mal&#8221; dice adiós con la liberación de su último número, el de septiembre de 2022, junto con todos los demás. E incluso la de sus primeros números ceros, los de ensayo.</p>
-
-
-
-<p>Originalmente propuesto como una actividad de crowdfounding para acumular tres millones de pesos y volver a ser una incómoda vitrina que desafíe a las grandes tecnológicas y a las revistas de seudociencia que promueven el no vacunarse, &#8220;algo salió mal&#8221; quería ocupar el puesto vacante de la sátira y el análisis político en soporte de papel de diario. Lástima que sus propulsores tengan más ganas y deudas que capital. </p>
-
-
-
-<p>La campaña que levantaron solo logró acumular 1/6 del dinero necesario, que bastaba para financiar una modesta tirada, pero no para conseguir financiar la distribución a todo el territorio nacional. Tras un año y medio de insistencia, sus encargados cierran la puerta por fuera, no sin otorgar una sepultura de buena calidad a lo que pudo haber sido un buen boliche.</p>
-
-
-
-<p>Es así como se publican todos los números en PDF, que antes solo eran accesibles a los patrones por medio de Telegram, en una página construida con la última tecnología de WordPress: la edición de sitio completo por bloque. Junto a eso, se suma la generación de sitios estáticos y el uso intensivo de Github pages, con lo que se obtiene un producto constituido por puro html estático y mucho javascript, con lo que el gasto de servidor es el mínimo escencial, el que origina el servir unos cuantos mb de ancho de banda. El gasto de procesador se genera en una copia en local. Nada que envidiarle a Jekyll o Hugo, los CMS planos de moda.</p>
-
-
-
-<p>De haber logrado llegar a imprenta, se habría transformado en la primera publicación periódica escrita impresa en editarse íntegramente usando software libre, por haberse maquetado usando Scribus y sus imágenes tratadas con Gimp.</p>
-
-
-
-<p>Invitamos a todos a disfrutar de estos elementos vestigiales.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>./../../../algo-salio-mal-sale-mal-y-libera-al-publico-casi-todo-su-archivo/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Número 9</title>
 		<link>./../../../numero-9/index.html</link>
 					<comments>./../../../numero-9/index.html#respond</comments>
@@ -85,7 +31,7 @@
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1165" height="1598" src="./../../../wp-content/uploads/2022/11/009.webp" alt="" class="wp-image-54"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1165" height="1598" src="./../../../wp-content/uploads/2022/11/009.webp" alt="" class="wp-image-54"/></figure>
 
 
 
