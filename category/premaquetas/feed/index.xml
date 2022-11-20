@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Sun, 20 Nov 2022 20:21:05 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 20 Nov 2022 20:54:02 +0000</lastBuildDate>
 	<language>es-CL</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,66 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
+		<title>0C: con sentido de urgencia</title>
+		<link>./../../../0c-con-sentido-de-urgencia/index.html</link>
+					<comments>./../../../0c-con-sentido-de-urgencia/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[algo-salio-mal]]></dc:creator>
+		<pubDate>Sun, 20 Nov 2022 20:54:02 +0000</pubDate>
+				<category><![CDATA[Premaquetas]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=115</guid>
+
+					<description><![CDATA[El 18 de octubre nos pilló en pelotas. La pera estaba madura. Apenas quedó de vestigio de los muchos cambios que se hicieron al intento de hacer algo mientras se buscaba patrocinio.]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="1138" height="1551" src="./../../../wp-content/uploads/2022/11/0C.webp" alt="" class="wp-image-116"/></figure>
+
+
+
+<p>El 18 de octubre nos pilló en pelotas. La pera estaba madura. Apenas quedó de vestigio de los muchos cambios que se hicieron al intento de hacer algo mientras se buscaba patrocinio.</p>
+
+
+
+<div class="wp-block-file"><object class="wp-block-file__embed" data="./../../../wp-content/uploads/2022/11/0C_compressed.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of 0C_compressed."></object><a id="wp-block-file--media-64439c34-0fc4-4f78-960f-85ba44d6db81" href="./../../../wp-content/uploads/2022/11/0C_compressed.pdf">0C_compressed</a><a href="./../../../wp-content/uploads/2022/11/0C_compressed.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-64439c34-0fc4-4f78-960f-85ba44d6db81">Download</a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../0c-con-sentido-de-urgencia/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>0B: minutos antes del desastre</title>
+		<link>./../../../0b-minutos-antes-del-desastre/index.html</link>
+					<comments>./../../../0b-minutos-antes-del-desastre/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[algo-salio-mal]]></dc:creator>
+		<pubDate>Sun, 20 Nov 2022 20:49:53 +0000</pubDate>
+				<category><![CDATA[Premaquetas]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=111</guid>
+
+					<description><![CDATA[La fecha de generación del pdf no miente: sábado 12 de octubre, martes 24 de septiembre. Con fecha diciembre o noviembre, &#8220;algo salió mal&#8221; estaba pensado para irrumpir durante la COP de ese año, golpeando la hipocresía climática de quienes dicen querer proteger el ambiente mientras aprietan el acelerador de la extinción masiva.]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1138" height="1551" src="./../../../wp-content/uploads/2022/11/0B.webp" alt="" class="wp-image-112"/></figure>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1138" height="1551" src="./../../../wp-content/uploads/2022/11/0B1.webp" alt="" class="wp-image-113"/></figure>
+
+
+
+<figure class="wp-block-image"><img alt=""/></figure>
+
+
+
+<p>La fecha de generación del pdf no miente: sábado 12 de octubre, martes 24 de septiembre. Con fecha diciembre o noviembre, &#8220;algo salió mal&#8221; estaba pensado para irrumpir durante la COP de ese año, golpeando la hipocresía climática de quienes dicen querer proteger el ambiente mientras aprietan el acelerador de la extinción masiva.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../0b-minutos-antes-del-desastre/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Número 0A</title>
 		<link>./../../../numero-0a/index.html</link>
 					<comments>./../../../numero-0a/index.html#respond</comments>
@@ -35,7 +95,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1138" height="1551" src="./../../../wp-content/uploads/2022/11/0A1.webp" alt="" class="wp-image-100"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1138" height="1551" src="./../../../wp-content/uploads/2022/11/0A1.webp" alt="" class="wp-image-100"/></figure>
 
 
 
