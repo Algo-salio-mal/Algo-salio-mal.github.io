@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comentarios para algo salió mal	</title>
+	Comentarios en: Número 0A	</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Sun, 20 Nov 2022 20:21:05 +0000</lastBuildDate>
 	<sy:updatePeriod>
