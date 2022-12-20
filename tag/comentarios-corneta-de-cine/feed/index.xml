@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>comentarios corneta de cine &#8211; algo salió mal</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 20 Dec 2022 21:20:30 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Zinne</title>
+		<link>./../../../zinne/index.html</link>
+					<comments>./../../../zinne/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[algo-salio-mal]]></dc:creator>
+		<pubDate>Tue, 08 Dec 2020 18:42:50 +0000</pubDate>
+				<category><![CDATA[Parodias]]></category>
+		<category><![CDATA[comentarios corneta de cine]]></category>
+		<category><![CDATA[Número 2]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=317</guid>
+
+					<description><![CDATA[Ha debutado finalmente la plataforma de contenido audiovisual por streaming Disney+ (se pronuncia “disni plas”; no “disni más”, “disni plus” ni mucho menos “disni suma”). La aplicación ya cuenta con cientos de recordados títulos de este incombustible estudio de animación. Entre ellos, destacan algunos como “Enredados”, una precuela de “Los locos Adams” centrada en la [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+
+
+<p>Ha debutado finalmente la plataforma de contenido audiovisual por streaming Disney+ (se pronuncia “disni plas”; no “disni más”, “disni plus” ni mucho menos “disni suma”). La aplicación ya cuenta con cientos de recordados títulos de este incombustible estudio de animación. Entre ellos, destacan algunos como “Enredados”, una precuela de “Los locos Adams” centrada en la juventud del Tío Cosa; “Mulán”, el recién estrenado documental acerca de las manufacturas chinas y su escasa calidad; o “Dumbo”, el remake en imagen real dirigido por Tim Burton sobre la clásica historia de un niño al que sus compañeros de escuela acosan por el gran tamaño de sus orejas. Otros títulos se sumarán el año que viene, como la esperada versión live action de “La sirenita”, que contará con radicales cambios como una protagonista de raza negra y una sirena inversa, es decir, la parte de pescado arriba y de mujer abajo. Sin embargo, Disney+ omite el inmenso legado misógino, antisemita y racista de Walt Disney, olvidando a una importante cantidad de público joven masculino muy asiduo a este tipo de contenido. La principal fortaleza de la plataforma, no obstante, es apelar a la nostalgia; y el hacer a muchos sentirse unos verdaderos niños, mentalmente, como todo el universo de películas de superhéroes de Marvel. ― ALEX AGUILÉ. □</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../zinne/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

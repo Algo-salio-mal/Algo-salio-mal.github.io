@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Aguilé &#8211; algo salió mal</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 20 Dec 2022 21:58:51 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>México se proclama oficialmente narcoestado</title>
+		<link>./../../../mexico-se-proclama-oficialmente-narcoestado/index.html</link>
+					<comments>./../../../mexico-se-proclama-oficialmente-narcoestado/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[algo-salio-mal]]></dc:creator>
+		<pubDate>Sat, 20 Mar 2021 21:57:00 +0000</pubDate>
+				<category><![CDATA[Artículos separados]]></category>
+		<category><![CDATA[Aguilé]]></category>
+		<category><![CDATA[Número 5]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=385</guid>
+
+					<description><![CDATA[DF. En una gran narcoceremonia que reunió a narcodelegaciones de distintos narcoestados de la naracorepública federal, el NarcoCongreso General Mexicano ha despachado hoy una narcoley que obliga a colocar el prefijo “narco” en cada uno de los sustantivos comunes a utilizarse oficial-mente en el narcopaís del norte. El NarcoPresidente, Andrés Manuel López Obrador, se refirió [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+
+
+<p>DF. En una gran narcoceremonia que reunió a narcodelegaciones de distintos narcoestados de la naracorepública federal, el NarcoCongreso General Mexicano ha despachado hoy una narcoley que obliga a colocar el prefijo “narco” en cada uno de los sustantivos comunes a utilizarse oficial-mente en el narcopaís del norte. El NarcoPresidente, Andrés Manuel López Obrador, se refirió hoy a la narcoiniciativa legal, señalando que “permitirá acercar a los narcomexicanos a la idea que el mundo tiene de ellos, facilitando una correcta correlación entre la narcocultura de nuestro narcopaís y la narcoimagen que por años hemos proyectado hacia el exterior”.<br>Juan Jacobo Amador, embajador de la Unión Europea en México, alcanzó a dedicar algunas palabras a la nueva ley, las que lamentablemente fueron interrum-pidas por el ruido de disparos tras la irrupción de un grupo de secuestradores que tomaron a Amador y lo condujeron hacia el interior de un auto negro, todo, ante la mirada atónita de los asistentes y los gritos fervorosos de un grupo de gringos ebrios que creían que todo se trataba de una performance.<br>Tras volver a gatas y esquivando algunos cadáveres hasta el proscenio, el presidente del NarcoCongreso general exhortó a los invitados a continuar con la celebración por el despacho del narcotexto legal. — AGUILÉ ■</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../mexico-se-proclama-oficialmente-narcoestado/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
