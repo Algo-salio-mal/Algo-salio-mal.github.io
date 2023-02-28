@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Sun, 20 Nov 2022 15:31:45 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Feb 2023 21:21:45 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,33 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
+		<title>Número 10</title>
+		<link>./../../../numero-10/index.html</link>
+					<comments>./../../../numero-10/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[algo-salio-mal]]></dc:creator>
+		<pubDate>Tue, 28 Feb 2023 21:02:25 +0000</pubDate>
+				<category><![CDATA[Números]]></category>
+		<category><![CDATA[Número 10]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=403</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="3425" height="4724" src="./../../../wp-content/uploads/2023/02/010-pagina001.webp" alt="" class="wp-image-404"/></figure>
+
+
+
+<div class="wp-block-file"><object class="wp-block-file__embed" data="./../../../wp-content/uploads/2023/02/010.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Incrustado de 010."></object><a id="wp-block-file--media-b4a53d76-4006-4b97-88d6-df756929b76e" href="./../../../wp-content/uploads/2023/02/010.pdf">010</a><a href="./../../../wp-content/uploads/2023/02/010.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-b4a53d76-4006-4b97-88d6-df756929b76e">Descarga</a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../numero-10/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Número 9</title>
 		<link>./../../../numero-9/index.html</link>
 					<comments>./../../../numero-9/index.html#respond</comments>
@@ -59,7 +86,7 @@
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1165" height="1598" src="./../../../wp-content/uploads/2022/11/008.webp" alt="" class="wp-image-48"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1165" height="1598" src="./../../../wp-content/uploads/2022/11/008.webp" alt="" class="wp-image-48"/></figure>
 
 
 
@@ -87,7 +114,7 @@
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1165" height="1598" src="./../../../wp-content/uploads/2022/11/007.webp" alt="" class="wp-image-44"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1165" height="1598" src="./../../../wp-content/uploads/2022/11/007.webp" alt="" class="wp-image-44"/></figure>
 
 
 
@@ -115,7 +142,7 @@
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1161" height="1457" src="./../../../wp-content/uploads/2022/11/006-Pagina001.webp" alt="" class="wp-image-37"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1161" height="1457" src="./../../../wp-content/uploads/2022/11/006-Pagina001.webp" alt="" class="wp-image-37"/></figure>
 
 
 
@@ -139,7 +166,7 @@
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1161" height="1457" src="./../../../wp-content/uploads/2022/11/005-Pagina001.webp" alt="" class="wp-image-32"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1161" height="1457" src="./../../../wp-content/uploads/2022/11/005-Pagina001.webp" alt="" class="wp-image-32"/></figure>
 
 
 
@@ -167,7 +194,7 @@
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1138" height="1433" src="./../../../wp-content/uploads/2022/11/004.webp" alt="" class="wp-image-28"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1138" height="1433" src="./../../../wp-content/uploads/2022/11/004.webp" alt="" class="wp-image-28"/></figure>
 
 
 
@@ -199,7 +226,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1138" height="1433" src="./../../../wp-content/uploads/2022/11/003.webp" alt="" class="wp-image-25"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1138" height="1433" src="./../../../wp-content/uploads/2022/11/003.webp" alt="" class="wp-image-25"/></figure>
 
 
 
@@ -227,7 +254,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1092" height="1386" src="./../../../wp-content/uploads/2022/11/002p.webp" alt="" class="wp-image-20"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1092" height="1386" src="./../../../wp-content/uploads/2022/11/002p.webp" alt="" class="wp-image-20"/></figure>
 
 
 
@@ -263,7 +290,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1138" height="1433" src="./../../../wp-content/uploads/2022/11/001c.webp" alt="" class="wp-image-11"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1138" height="1433" src="./../../../wp-content/uploads/2022/11/001c.webp" alt="" class="wp-image-11"/></figure>
 
 
 
