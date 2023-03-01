@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Thu, 08 Dec 2022 19:52:02 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 01 Mar 2023 00:03:29 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -145,7 +145,7 @@
 		
 		<dc:creator><![CDATA[algo-salio-mal]]></dc:creator>
 		<pubDate>Fri, 19 Mar 2021 19:08:00 +0000</pubDate>
-				<category><![CDATA[Artículos separados]]></category>
+				<category><![CDATA[Opinión]]></category>
 		<category><![CDATA[Número 4]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=338</guid>
 
